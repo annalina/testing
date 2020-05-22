@@ -34,6 +34,9 @@ Following the SemEval 2020 Task 1 setting, we rely on the comparison of two time
 Participants will be provided with two corpora C1 and C2 (for time periods t1 and t2, respectively), and a set of target words. For each of them, systems have to decide whether a word changed or not its meaning between t1 and t2 according to the occurrences of target word(s) in sentences in C1 and C2. For instance, the meaning of the word “imbarcata” is known to have expanded (i.e, it has acquired a new sense) from t1 to t2 (originally it refers to an acrobatic manoeuvre of aeroplanes, but nowadays it is also used to refer to the state of being deeply in love with someone.) This will be reflected in different occurrences of use in sentences between C1 and C2.
 The task is formulated as a closed task (i.e., participants must train their models on the data that are provided).
 
+## Data Description
+TBA
+
 ## Guidelines
 <a href="{{ site.github }}/guidelines/EVALITA_2020___DIACR_ita___Guidelines-2.pdf" target="_blank">Guidelines</a>
 
